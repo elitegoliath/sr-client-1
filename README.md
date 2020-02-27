@@ -105,7 +105,7 @@ git checkout -b <new-branchname>
 ```
 This command will make a new branch based on the latest commit at HEAD, which will likely be empty.
 
-## Example
+### Example
 ```
 git checkout -b Job3
 ```
@@ -115,7 +115,7 @@ git checkout -b Job3
 git checkout -b <new-branchname> <existing-branchname>
 ```
 
-## Example
+### Example
 ```
 git checkout -b Job32 Job1
 ```
