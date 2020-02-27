@@ -39,6 +39,7 @@ the size per pull.
 Job1/Size1 (checkout here)
         |____OptionA
         |____OptionB
+
 Job1/Size2 (checkout here)
         |____OptionA
         |____OptionB
@@ -46,6 +47,7 @@ Job1/Size2 (checkout here)
 Job2/Size1 (checkout here)
         |____OptionA
         |____OptionB
+        
 Job2/Size2 (checkout here)
         |____OptionA
         |____OptionB
