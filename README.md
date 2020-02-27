@@ -66,7 +66,7 @@ git clone -b <branch> <remote_repo>
 git clone -b Job1 https://github.com/elitegoliath/sr-client-1.git
 ```
 ----
-**If** you just want to switch branches on a client you've pulled a branch from before, but you have never checked out the particular branch you want, you will first want to make sure that you are up-to-date with remote, then checkout the new branch. (The -p command, which is short for --prune, will make sure that any dead branches you have locally will get cleaned up)
+**If** you just want to switch branches on a client you've pulled a branch from before, but you have never checked out the particular branch you want, you will first want to make sure that you are up-to-date with remote, then checkout the new branch. (The -p command, which is short for --prune, will make sure that any dead branches you have fetched will get cleaned up)
 
 Make sure to run these commands from within the directory in which the repo exists for the sake of ease.
 ```
